@@ -1,7 +1,6 @@
 # Open-Source-Sim-Stethoscope
-Information and code for a Stethoscope to be used in medical training
 
-Background
+<h1>Background</h1>
 
 In health care, a Simulated Participant, Standardized Patient, or Sample Patient (referred to as an SP) is an individual trained to act as a real patient in order to simulate a set of symptoms or problems. Simulated Patients have been used in the education and evaluation of an array of health care providers including nursing, medical, pharmacy and social work learners.
 
